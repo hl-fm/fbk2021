@@ -5,6 +5,8 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 const CopyWebpackPlugin = require("copy-webpack-plugin")
 
+const { meta } = require('./meta')
+
 module.exports = {
   mode: 'production',
   entry: './src/js/index.js',
@@ -17,7 +19,21 @@ module.exports = {
     new HtmlWebpackPlugin({
       filename: 'index.html',
       inject: true,
-      template: path.resolve(__dirname, 'src/index.html')
+      hash: true,
+      minify: {
+        collapseWhitespace: true,
+        keepClosingSlash: true,
+        removeComments: true,
+        removeRedundantAttributes: true,
+        removeScriptTypeAttributes: true,
+        removeStyleLinkTypeAttributes: true,
+        useShortDoctype: true,
+        minifyCSS: true,
+        sortAttributes: true,
+        sortClassName: true
+      },
+      template: path.resolve(__dirname, 'src/index.html'),
+      meta: meta
     }),
     new MiniCssExtractPlugin({
       filename: '[name].[hash].css',
@@ -25,6 +41,11 @@ module.exports = {
     new CopyWebpackPlugin({
       patterns: [{
         from: path.resolve(__dirname, 'src/img'), to: 'img'
+      }]
+    }),
+    new CopyWebpackPlugin({
+      patterns: [{
+        from: path.resolve(__dirname, 'src/icons'), to: 'icons'
       }]
     }),
     new CopyWebpackPlugin({
