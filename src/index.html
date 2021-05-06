@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Fubuki's Journey 2021 </title>
+		<meta name="description" content="Fubuki's Journey 2021" />
+		<meta name="keywords" content="fubuki, journey, 2021" />
+		<link rel="shortcut icon" href="favicon.ico">
+		<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
+		<style>
+			/* Page Loader */
+			.js body.loading {
+				overflow: hidden;
+			}
+			.js body.loading::before,
+			.js body.loading::after {
+				content: '';
+				position: fixed;
+				z-index: 1000;
+				opacity: 1;
+				transition: all 0.5s ease-in;
+			}
+
+			.js body.loading::before {
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background: #111;
+			}
+
+			.js body.loading::after {
+				top: 50%;
+				left: 50%;
+				width: 60px;
+				height: 60px;
+				margin: -30px 0 0 -30px;
+				border-radius: 50%;
+				opacity: 0.4;
+				background: #aaa;
+				animation: loaderAnim 0.7s linear infinite alternate forwards;
+			}
+
+			.js body.loading.load {
+				overflow: auto;
+			}
+			.js body.loading.load::before,
+			.js body.loading.load::after {
+				opacity: 0;
+				z-index: -1;
+				visibility: hidden;
+			}
+
+			@keyframes loaderAnim {
+				to {
+					opacity: 1;
+					transform: scale3d(0.5,0.5,1);
+				}
+			}
+
+			.holder {
+				position: fixed;
+				width: 100%;
+				height: 100%;
+				background-color: #111;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				left: 0;
+				top: 0;
+				z-index: 999;
+				opacity: 1;
+				transition: all 1s ease-in;
+			}
+		</style>
+	</head>
+	<body class="loading">
+
+		<main id="main" data-scroll-container>
+			<section id="header" class="content" id="sticky-header">
+				<div class="person-wrapper" id="sticky-header-target">
+					<div class="person">
+						<div class="container">
+							<div class="container-inner">
+								<img class="circle" src="/img/fbk-bg.png" />
+								<img class="img img1" src="/img/fbk-ava1.png" />
+								<img class="img img1 img1-hover" src="/img/fbk-ava3.png" />
+							</div>
+						</div>
+						<div class="name">白上フブキ</div>
+						<div class="title">Shirakami Fubuki</div>
+					</div>
+					<div class="content__text">
+						<p><i>"Kon Kon Kitsune!</i>
+						I'm Shirakami Fubuki! From Hololive's First Generation."</p>
+						<div class="icon-list">
+							<a href="https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg" target="_blank" rel="noreferrer noopener">
+								<dile-social-icon icon="youtube" class="youtube"></dile-social-icon>
+							</a>
+							<a href="https://twitter.com/shirakamifubuki" target="_blank" rel="noreferrer noopener">
+								<dile-social-icon icon="twitter" class="twitter"></dile-social-icon>
+							</a>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="content content--auto content__pretitle">
+				Below is the time line of Fubuki's public stream in 2021.
+				Let's support our best FRIEND!
+			</section>
+			
+		</main>
+
+		<template id="sectionTemplate">
+			<section class="tiles tiles--oneline" id="grid4">
+				<div class="tiles__wrap">
+					<div class="tiles__line" data-scroll data-scroll-call="tile" data-scroll-speed="2" data-scroll-target="#grid4" data-scroll-direction="horizontal">
+						<div class="tiles__line-img lazy" data-lazy-function="imageLoaded">
+							<a href="" title="" target="_blank" rel="noreferrer noopener" class="tiles__line-title"></a>
+						</div>
+						<div class="tiles__line-img lazy" data-lazy-function="imageLoaded">
+							<a href="" title="" target="_blank" rel="noreferrer noopener" class="tiles__line-title"></a>
+						</div>
+						<div class="tiles__line-img lazy" data-lazy-function="imageLoaded">
+							<a href="" title="" target="_blank" rel="noreferrer noopener" class="tiles__line-title"></a>
+						</div>
+						<div class="tiles__line-img lazy" data-lazy-function="imageLoaded">
+							<a href="" title="" target="_blank" rel="noreferrer noopener" class="tiles__line-title"></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</template>
+		<template id="footerSectionTemplate">
+			<section class="content footer">
+				<button class="backtop" data-scroll data-scroll-speed="4">Back to the top</button>
+				<div class="frame frame--footer">
+					<div class="frame__demos">
+						<p>Thanks for</p>
+						<a href="https://github.com/codrops/TileScroll/" target="_blank" rel="noreferrer noopener">TileScroll</a>
+					</div>
+				</div>
+			</section>
+		</template>
+
+		<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+			<defs>
+				<filter id="goo">
+					<feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+					<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
+					<feBlend in="SourceGraphic" in2="goo" />
+				</filter>
+			</defs>
+		</svg>
+		<section class="holder">
+			<div class="holder-content">
+				<div class="gooey-list">
+					<div class="gooey"></div>
+					<div class="gooey"></div>
+					<div class="gooey"></div>
+					<div class="gooey"></div>
+					<div class="gooey"></div>
+					<div class="bubble"></div>
+				</div>
+			</div>
+			<div class="text">
+				<p>Just a moment...</p>
+			</div>
+		</section>
+	</body>
+
+</html>
