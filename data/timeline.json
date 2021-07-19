@@ -2,6 +2,307 @@
 	"data": [
 		{
 			"kind": "youtube#playlistItem",
+			"etag": "2bGn6navFTXvk3GXmHy41RMj7GU",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLnhlWFgyWE40b0VR",
+			"snippet": {
+				"publishedAt": "2021-07-17T21:34:03Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【朝活】ポケカにハマった話とか、最近の色々。エヴァとか【ホロライブ/白上フブキ】",
+				"description": "ホロライブ所属の白上フブキです\n\n朝活雑談です\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✨N E W🌟\n🌽🌽白上フブキ３周年記念グッズ🌽🌽\n\n▷BOOTH：https://hololive.booth.pm/items/2963834\n\nホロライブ公式LINEスタンプ「白上フブキ」\nhololive sticker \"Shirakami Fubuki\"                       \n\n▷LINE/ https://store.line.me/stickershop/product/15382769         \n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🌽Twitter\n　　　https://twitter.com/shirakamifubuki\n\n　❖放送ハッシュタグ　#フブキCh\n　❖ファンアートタグ　#絵フブキ\n\nホロライブプロダクションの全体放送スケジュール\n➡https://schedule.hololive.tv/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🎵M　U　S　I　C🎵\n\n『Say!ファンファーレ! / 白上フブキ』\n🌽https://sf.streamlink.to/say\n\n『hololive IDOL PROJECT初のフルアルバム 『Bouquet』』\n🌽https://hip.streamlink.to/BouquetCD\n\n『百花繚乱花吹雪』\n歌：hololive IDOL PROJECT\n(歌唱メンバー : 白上フブキ, 百鬼あやめ, 大神ミオ)\n🌽https://hip.streamlink.to/HyakkaRyoranHanafubuki\n\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎵R　A　D　I　O🎵\n\n🎁「ホロライブpresents Vのすこんなオタ活なんだワ！」\n響ラジオステーションで毎週水曜日\n宝鐘マリン＆白上フブキでヲタ活をお届け！\n\n▷https://hibiki-radio.jp/description/skdw/detail\n感想　#すこだワ\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎁G　O　O　D　S🎁\n\nホロライブグッズ販売inBOOTH\n❖BOOTH：https://hololive.booth.pm/\n\n🌸Click here for BOOTH overseas shipping! ＞\n　 http://www.tenso.com/en/static/lp_shop_booth\n\n🌸使用BOOTH的海外转发服务来海淘吧！ ＞ \n　https://www.tenso.com/chs/static/lp_shop_booth\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n■使用BGM\n　　　　❖Foxtail-Grass Studio/ハム\n　　　　　Twitter：https://twitter.com/hamu_lr\n　　　　　HP：https://f-g-s.net/\n　　　　❖トマト組\n　　　　　Twitter：https://twitter.com/tsugaharuka\n                ❖モリモリあつし\n　　　　　Twitter：https://twitter.com/ats024\n　　　　❖あくまのゴート【品川シーサイド】\n　　　　 https://youtu.be/jqL-V8-h3mQ \n　　　　🔴あくまの音楽集 その1 | あくまのゴート\n　　　　 https://akumano-goat.booth.pm/items/1359684 #booth_pm\n　　　　❖かんざきひろ\n　　　　https://twitter.com/kanzakihiro\n　　　　❖木屑\n　　　　　Twitter：https://twitter.com/cassisorange_g2\n　　　　❖DOVA-SYNDROME\n　　　　　HP：https://dova-s.jp/\n\n　　　　❖VOXおるやんけ/にーえぬこーは　\n　　　　　DL:https://soundcloud.com/8izwhpwkfuor/vox\n　　　　❖コンコンきつね/karoi\n　　　　DL:https://soundcloud.com/nrivdlq6vz0c/h7omavnmebsz\n　　\n■ﾁｬﾝﾈﾙﾛｺﾞ：柊椋\n動画素材サイト f-stock.net\n金子開発：https://kanekokaihatsu.com/\nチャンネルスタンプ:ヨルのないと\nOKUMONO：https://sozaino.site/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/xeXX2XN4oEQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/xeXX2XN4oEQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/xeXX2XN4oEQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/xeXX2XN4oEQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/xeXX2XN4oEQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 0,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "xeXX2XN4oEQ"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "rqDPuI-mlseJTYdhdv-XtMEK_mU",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLnlnMXhqTHRnaHg0",
+			"snippet": {
+				"publishedAt": "2021-07-13T10:03:38Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【#テイクレ1周年】このテイルズ がヤバい！テイルズ女子会【ホロライブ/白上フブキ/夜空メル/星街すいせい】",
+				"description": "テイルズオブ クレストリア1周年をお祝いする\n✨ホロライブテイルズ女子会を開催✨\nテイルズ好きな私達３人で推しキャラやストーリーを語っていきます!!\n\nテイクレ1周年キャンペーン情報や\nテイクレのストーリーを一緒に楽しんで行きましょう！\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n提供：「テイルズオブ クレストリア」(TALES OF CRESTORIA)\n▼ダウンロードはこちら\nhttps://app.adjust.com/97xd1ru\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\nアプリ公式サイト\n https://crestoria.tales-ch.jp/index.php\n\nアプリ公式Twitter \nhttps://twitter.com/to_crestoria\nアプリ公式LINE \nhttps://lin.ee/v9z0bsi\nアプリ公式Instagram\nhttps://www.instagram.com/to_crestoria\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n配信　株式会社バンダイナムコエンターテインメント\n©いのまたむつみ ©藤島康介 ©BANDAI NAMCO Entertainment Inc.\n\n※App Storeは、米国およびその他の国で登録されたApple Inc.の商標です。\n※Google PlayはGoogle LLCの商標です。\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n夜空メル\n Youtube:@Mel Channel 夜空メルチャンネル \n星街すいせい\n Youtube:@Suisei Channel",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/yg1xjLtghx4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/yg1xjLtghx4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/yg1xjLtghx4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/yg1xjLtghx4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/yg1xjLtghx4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 1,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "yg1xjLtghx4"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "UZrnRVR2gU9do1lLY-e0xcBqe3o",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLmlSVnJoRW55YkQw",
+			"snippet": {
+				"publishedAt": "2021-07-13T10:20:10Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【同時視聴】LOKI -ロキ- 最終話【ホロライブ/白上フブキ】",
+				"description": "ホロライブ所属の白上フブキです\n\nディズニープラスで配信されている\nMARVELドラマ「LOKI」の同時視聴です\n\n▷あらすじ\n『アベンジャーズ／エンドゲーム』にて\n四次元キューブを手に入れたロキ\nやったぜラッキーな中、とある組織に捕縛され\n自ら改変した時間を正しく修正する羽目に…。\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✨N E W🌟\n🌽🌽白上フブキ３周年記念グッズ🌽🌽\n\n▷BOOTH：https://hololive.booth.pm/items/2963834\n\nホロライブ公式LINEスタンプ「白上フブキ」\nhololive sticker \"Shirakami Fubuki\"                       \n\n▷LINE/ https://store.line.me/stickershop/product/15382769         \n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🌽Twitter\n　　　https://twitter.com/shirakamifubuki\n\n　❖放送ハッシュタグ　#フブキCh\n　❖ファンアートタグ　#絵フブキ\n\nホロライブプロダクションの全体放送スケジュール\n➡https://schedule.hololive.tv/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🎵M　U　S　I　C🎵\n\n『Say!ファンファーレ! / 白上フブキ』\n🌽https://sf.streamlink.to/say\n\n『hololive IDOL PROJECT初のフルアルバム 『Bouquet』』\n🌽https://hip.streamlink.to/BouquetCD\n\n『百花繚乱花吹雪』\n歌：hololive IDOL PROJECT\n(歌唱メンバー : 白上フブキ, 百鬼あやめ, 大神ミオ)\n🌽https://hip.streamlink.to/HyakkaRyoranHanafubuki\n\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎵R　A　D　I　O🎵\n\n🎁「ホロライブpresents Vのすこんなオタ活なんだワ！」\n響ラジオステーションで毎週水曜日\n宝鐘マリン＆白上フブキでヲタ活をお届け！\n\n▷https://hibiki-radio.jp/description/skdw/detail\n感想　#すこだワ\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎁G　O　O　D　S🎁\n\nホロライブグッズ販売inBOOTH\n❖BOOTH：https://hololive.booth.pm/\n\n🌸Click here for BOOTH overseas shipping! ＞\n　 http://www.tenso.com/en/static/lp_shop_booth\n\n🌸使用BOOTH的海外转发服务来海淘吧！ ＞ \n　https://www.tenso.com/chs/static/lp_shop_booth\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n■使用BGM\n　　　　❖Foxtail-Grass Studio/ハム\n　　　　　Twitter：https://twitter.com/hamu_lr\n　　　　　HP：https://f-g-s.net/\n　　　　❖トマト組\n　　　　　Twitter：https://twitter.com/tsugaharuka\n                ❖モリモリあつし\n　　　　　Twitter：https://twitter.com/ats024\n　　　　❖あくまのゴート【品川シーサイド】\n　　　　 https://youtu.be/jqL-V8-h3mQ \n　　　　🔴あくまの音楽集 その1 | あくまのゴート\n　　　　 https://akumano-goat.booth.pm/items/1359684 #booth_pm\n　　　　❖かんざきひろ\n　　　　https://twitter.com/kanzakihiro\n　　　　❖木屑\n　　　　　Twitter：https://twitter.com/cassisorange_g2\n　　　　❖DOVA-SYNDROME\n　　　　　HP：https://dova-s.jp/\n\n　　　　❖VOXおるやんけ/にーえぬこーは　\n　　　　　DL:https://soundcloud.com/8izwhpwkfuor/vox\n　　　　❖コンコンきつね/karoi\n　　　　DL:https://soundcloud.com/nrivdlq6vz0c/h7omavnmebsz\n　　\n■ﾁｬﾝﾈﾙﾛｺﾞ：柊椋\n動画素材サイト f-stock.net\n金子開発：https://kanekokaihatsu.com/\nチャンネルスタンプ:ヨルのないと\nOKUMONO：https://sozaino.site/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/iRVrhEnybD0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/iRVrhEnybD0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/iRVrhEnybD0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/iRVrhEnybD0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/iRVrhEnybD0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 2,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "iRVrhEnybD0"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "VY7oIEyqE5hJEcTCr8g7W4Xr7qw",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLm05V0FVNlVhSGFV",
+			"snippet": {
+				"publishedAt": "2021-07-13T21:35:05Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【歌枠】KAWAIiを意識して歌う枠/KAWAII SONG?【ホロライブ/白上フブキ】",
+				"description": "ホロライブ所属の白上フブキです\n\nとにかく歌う曲全部をKAWAIIを意識して歌う枠。\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✨N E W🌟\n🌽🌽白上フブキ３周年記念グッズ🌽🌽\n\n▷BOOTH：https://hololive.booth.pm/items/2963834\n\nホロライブ公式LINEスタンプ「白上フブキ」\nhololive sticker \"Shirakami Fubuki\"                       \n\n▷LINE/ https://store.line.me/stickershop/product/15382769         \n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🌽Twitter\n　　　https://twitter.com/shirakamifubuki\n\n　❖放送ハッシュタグ　#フブキCh\n　❖ファンアートタグ　#絵フブキ\n\nホロライブプロダクションの全体放送スケジュール\n➡https://schedule.hololive.tv/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n歌っちゃ王\n　https://www.youtube.com/channel/UC1tk9F5-MGXEq4LWnjmrtpA\nアルタエース-カラオケ制作・芸能マネジメントチャンネル\n　https://www.youtube.com/channel/UC7fyuQSXC8wIqH-CwvRup-Q\n生音風カラオケ屋\n　 https://www.youtube.com/channel/UCZ3ryrdsdqezi2q-AfRw6Rw\n荷物餅　 \n https://www.youtube.com/channel/UC9H5tuwHqu9TnZbI26hD02Q\nHiroのピアノ伴奏アレンジ\n https://www.youtube.com/channel/UCWX2b3xIeJHoiNOPd9nTuKA\nチューリングラブ/オケ楽曲:篠原 瑞希\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🎵M　U　S　I　C🎵\n\n『Say!ファンファーレ! / 白上フブキ』\n🌽https://sf.streamlink.to/say\n\n『hololive IDOL PROJECT初のフルアルバム 『Bouquet』』\n🌽https://hip.streamlink.to/BouquetCD\n\n『百花繚乱花吹雪』\n歌：hololive IDOL PROJECT\n(歌唱メンバー : 白上フブキ, 百鬼あやめ, 大神ミオ)\n🌽https://hip.streamlink.to/HyakkaRyoranHanafubuki\n\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎵R　A　D　I　O🎵\n\n🎁「ホロライブpresents Vのすこんなオタ活なんだワ！」\n響ラジオステーションで毎週水曜日\n宝鐘マリン＆白上フブキでヲタ活をお届け！\n\n▷https://hibiki-radio.jp/description/skdw/detail\n感想　#すこだワ\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎁G　O　O　D　S🎁\n\nホロライブグッズ販売inBOOTH\n❖BOOTH：https://hololive.booth.pm/\n\n🌸Click here for BOOTH overseas shipping! ＞\n　 http://www.tenso.com/en/static/lp_shop_booth\n\n🌸使用BOOTH的海外转发服务来海淘吧！ ＞ \n　https://www.tenso.com/chs/static/lp_shop_booth\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n■使用BGM\n　　　　❖Foxtail-Grass Studio/ハム\n　　　　　Twitter：https://twitter.com/hamu_lr\n　　　　　HP：https://f-g-s.net/\n　　　　❖トマト組\n　　　　　Twitter：https://twitter.com/tsugaharuka\n                ❖モリモリあつし\n　　　　　Twitter：https://twitter.com/ats024\n　　　　❖あくまのゴート【品川シーサイド】\n　　　　 https://youtu.be/jqL-V8-h3mQ \n　　　　🔴あくまの音楽集 その1 | あくまのゴート\n　　　　 https://akumano-goat.booth.pm/items/1359684 #booth_pm\n　　　　❖かんざきひろ\n　　　　https://twitter.com/kanzakihiro\n　　　　❖木屑\n　　　　　Twitter：https://twitter.com/cassisorange_g2\n　　　　❖DOVA-SYNDROME\n　　　　　HP：https://dova-s.jp/\n\n　　　　❖VOXおるやんけ/にーえぬこーは　\n　　　　　DL:https://soundcloud.com/8izwhpwkfuor/vox\n　　　　❖コンコンきつね/karoi\n　　　　DL:https://soundcloud.com/nrivdlq6vz0c/h7omavnmebsz\n　　\n■ﾁｬﾝﾈﾙﾛｺﾞ：柊椋\n動画素材サイト f-stock.net\n金子開発：https://kanekokaihatsu.com/\nチャンネルスタンプ:ヨルのないと\nOKUMONO：https://sozaino.site/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/m9WAU6UaHaU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/m9WAU6UaHaU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/m9WAU6UaHaU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/m9WAU6UaHaU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/m9WAU6UaHaU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 3,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "m9WAU6UaHaU"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "cTiJBnjv2CByAvgtWq-VKzi5RcU",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLlNXMWxTUjRPc09J",
+			"snippet": {
+				"publishedAt": "2021-07-12T23:19:24Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【NGS】グリッセン武器…ドロップする？【ホロライブ/白上フブキ】",
+				"description": "ホロライブ所属の白上フブキです\n\n■一緒にプレイする時のゲーム内注意事項等です。\n▷ship:10　\n\n▷⚠フレンド申請NGです。送らないでください。\n▷アークスの方々や放送主に対する迷惑行為\n▷過度なシンボルアートやチャットの連投\n▷マナーと楽しむ気持ちをもってプレイしてください。\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✨N E W🌟\n🌽🌽白上フブキ３周年記念グッズ🌽🌽\n\n▷BOOTH：https://hololive.booth.pm/items/2963834\n\nホロライブ公式LINEスタンプ「白上フブキ」\nhololive sticker \"Shirakami Fubuki\"                       \n\n▷LINE/ https://store.line.me/stickershop/product/15382769         \n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🌽Twitter\n　　　https://twitter.com/shirakamifubuki\n\n　❖放送ハッシュタグ　#フブキCh\n　❖ファンアートタグ　#絵フブキ\n\nホロライブプロダクションの全体放送スケジュール\n➡https://schedule.hololive.tv/\n\n━━━━━━━━━━━━━━━━━━━━━━━\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n\n©SEGA\n『PSO2 ニュージェネシス』公式サイト\nhttps://new-gen.pso2.jp/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🎵M　U　S　I　C🎵\n\n『Say!ファンファーレ! / 白上フブキ』\n🌽https://sf.streamlink.to/say\n\n『hololive IDOL PROJECT初のフルアルバム 『Bouquet』』\n🌽https://hip.streamlink.to/BouquetCD\n\n『百花繚乱花吹雪』\n歌：hololive IDOL PROJECT\n(歌唱メンバー : 白上フブキ, 百鬼あやめ, 大神ミオ)\n🌽https://hip.streamlink.to/HyakkaRyoranHanafubuki\n\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎵R　A　D　I　O🎵\n\n🎁「ホロライブpresents Vのすこんなオタ活なんだワ！」\n響ラジオステーションで毎週水曜日\n宝鐘マリン＆白上フブキでヲタ活をお届け！\n\n▷https://hibiki-radio.jp/description/skdw/detail\n感想　#すこだワ\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎁G　O　O　D　S🎁\n\nホロライブグッズ販売inBOOTH\n❖BOOTH：https://hololive.booth.pm/\n\n🌸Click here for BOOTH overseas shipping! ＞\n　 http://www.tenso.com/en/static/lp_shop_booth\n\n🌸使用BOOTH的海外转发服务来海淘吧！ ＞ \n　https://www.tenso.com/chs/static/lp_shop_booth\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n■使用BGM\n　　　　❖Foxtail-Grass Studio/ハム\n　　　　　Twitter：https://twitter.com/hamu_lr\n　　　　　HP：https://f-g-s.net/\n　　　　❖しゃろう\n　　　　　Twitter：https://twitter.com/shlllllw\n　　　　❖トマト組\n　　　　　Twitter：https://twitter.com/tsugaharuka\n                ❖モリモリあつし\n　　　　　Twitter：https://twitter.com/ats024\n　　　　❖あくまのゴート【品川シーサイド】\n　　　　 https://youtu.be/jqL-V8-h3mQ \n　　　　🔴あくまの音楽集 その1 | あくまのゴート\n　　　　 https://akumano-goat.booth.pm/items/1359684 #booth_pm\n　　　　❖かんざきひろ\n　　　　https://twitter.com/kanzakihiro\n　　　　❖木屑\n　　　　　Twitter：https://twitter.com/cassisorange_g2\n　　　　❖DOVA-SYNDROME\n　　　　　HP：https://dova-s.jp/\n\n　　　　❖VOXおるやんけ/にーえぬこーは　\n　　　　　DL:https://soundcloud.com/8izwhpwkfuor/vox\n　　　　❖コンコンきつね/karoi\n　　　　DL:https://soundcloud.com/nrivdlq6vz0c/h7omavnmebsz\n　　\n■ﾁｬﾝﾈﾙﾛｺﾞ：柊椋\n動画素材サイト f-stock.net\n金子開発：https://kanekokaihatsu.com/\nチャンネルスタンプ:ヨルのないと\nOKUMONO：https://sozaino.site/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/SW1lSR4OsOI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/SW1lSR4OsOI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/SW1lSR4OsOI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/SW1lSR4OsOI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/SW1lSR4OsOI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 4,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "SW1lSR4OsOI"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "jm9CYlDuEiIfXk0p7A-Sk9qDRgM",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLnBGN0o2eElCdDBB",
+			"snippet": {
+				"publishedAt": "2021-07-12T11:11:07Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【Phasmophobia】幽霊調査で幽霊にやられるヤツおりゅ？【＃バカタレサーカス】",
+				"description": "ホロライブ所属の白上フブキです\n\n\nお久しぶりの幽霊調査にでかけます！\n\n尾丸ポルカ\n　Youtube：\n角巻きわため\n　Youtube：\n不知火フレア\n　Youtube：\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✨N E W🌟\n🌽🌽白上フブキ３周年記念グッズ🌽🌽\n\n▷BOOTH：https://hololive.booth.pm/items/2963834\n\nホロライブ公式LINEスタンプ「白上フブキ」\nhololive sticker \"Shirakami Fubuki\"                       \n\n▷LINE/ https://store.line.me/stickershop/product/15382769         \n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🌽Twitter\n　　　https://twitter.com/shirakamifubuki\n\n　❖放送ハッシュタグ　#フブキCh\n　❖ファンアートタグ　#絵フブキ\n\nホロライブプロダクションの全体放送スケジュール\n➡https://schedule.hololive.tv/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n本ゲームは Kinetic Games の確認を得た上で配信・収益化を行なっております\n\nPhasmophobia\nhttps://store.steampowered.com/app/739630/Phasmophobia/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🎵M　U　S　I　C🎵\n\n『Say!ファンファーレ! / 白上フブキ』\n🌽https://sf.streamlink.to/say\n\n『hololive IDOL PROJECT初のフルアルバム 『Bouquet』』\n🌽https://hip.streamlink.to/BouquetCD\n\n『百花繚乱花吹雪』\n歌：hololive IDOL PROJECT\n(歌唱メンバー : 白上フブキ, 百鬼あやめ, 大神ミオ)\n🌽https://hip.streamlink.to/HyakkaRyoranHanafubuki\n\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎵R　A　D　I　O🎵\n\n🎁「ホロライブpresents Vのすこんなオタ活なんだワ！」\n響ラジオステーションで毎週水曜日\n宝鐘マリン＆白上フブキでヲタ活をお届け！\n\n▷https://hibiki-radio.jp/description/skdw/detail\n感想　#すこだワ\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎁G　O　O　D　S🎁\n\nホロライブグッズ販売inBOOTH\n❖BOOTH：https://hololive.booth.pm/\n\n🌸Click here for BOOTH overseas shipping! ＞\n　 http://www.tenso.com/en/static/lp_shop_booth\n\n🌸使用BOOTH的海外转发服务来海淘吧！ ＞ \n　https://www.tenso.com/chs/static/lp_shop_booth\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n■使用BGM\n　　　　❖Foxtail-Grass Studio/ハム\n　　　　　Twitter：https://twitter.com/hamu_lr\n　　　　　HP：https://f-g-s.net/\n　　　　❖しゃろう\n　　　　　Twitter：https://twitter.com/shlllllw\n　　　　❖トマト組\n　　　　　Twitter：https://twitter.com/tsugaharuka\n                ❖モリモリあつし\n　　　　　Twitter：https://twitter.com/ats024\n　　　　❖あくまのゴート【品川シーサイド】\n　　　　 https://youtu.be/jqL-V8-h3mQ \n　　　　🔴あくまの音楽集 その1 | あくまのゴート\n　　　　 https://akumano-goat.booth.pm/items/1359684 #booth_pm\n　　　　❖かんざきひろ\n　　　　https://twitter.com/kanzakihiro\n　　　　❖木屑\n　　　　　Twitter：https://twitter.com/cassisorange_g2\n　　　　❖DOVA-SYNDROME\n　　　　　HP：https://dova-s.jp/\n\n　　　　❖VOXおるやんけ/にーえぬこーは　\n　　　　　DL:https://soundcloud.com/8izwhpwkfuor/vox\n　　　　❖コンコンきつね/karoi\n　　　　DL:https://soundcloud.com/nrivdlq6vz0c/h7omavnmebsz\n　　\n■ﾁｬﾝﾈﾙﾛｺﾞ：柊椋\n動画素材サイト f-stock.net\n金子開発：https://kanekokaihatsu.com/\nチャンネルスタンプ:ヨルのないと\nOKUMONO：https://sozaino.site/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/pF7J6xIBt0A/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/pF7J6xIBt0A/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/pF7J6xIBt0A/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/pF7J6xIBt0A/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/pF7J6xIBt0A/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 5,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "pF7J6xIBt0A"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "us5gYZRT0Tf3tbwtu4l5to_TzO8",
+			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLlJRTV9sVGlYRVVz",
+			"snippet": {
+				"publishedAt": "2021-07-12T07:51:22Z",
+				"channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+				"title": "【らくがき】試しに絵文字スタンプ描いてみる【ホロライブ/白上フブキ】",
+				"description": "ホロライブ所属の白上フブキです\n\n\n英文はグーグル翻訳を使っています。間違ってたらすみません\n　The English text is created by Google Translate, I'm sorry if I make a mistake\n\nDiscord使用可能な絵文字スタンプを作ってみます\n配布は以前からお話してたのですが\n　Draw a stamp that can be used on Discord\n\n作成したスタンプはメンバーシップ限定で配布致します。\n自身が参加してるDiscordサーバーで登録して使ってください！\n　Distribute stamps only for membership\n　Stamps can only be registered on the Discord server you are participating in\n\nスタンプは定期的に配布します！\n　Stamps that can be used on Discord will be distributed regularly\n\nDiscordのスタンプ以外での使用はNGです\n　Use other than Discord stamps is prohibited\n他の方への配布はNGです\nIt is prohibited to distribute the distributed images to a third party\n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✨N E W🌟\n🌽🌽白上フブキ３周年記念グッズ🌽🌽\n\n▷BOOTH：https://hololive.booth.pm/items/2963834\n\nホロライブ公式LINEスタンプ「白上フブキ」\nhololive sticker \"Shirakami Fubuki\"                       \n\n▷LINE/ https://store.line.me/stickershop/product/15382769         \n\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🌽Twitter\n　　　https://twitter.com/shirakamifubuki\n\n　❖放送ハッシュタグ　#フブキCh\n　❖ファンアートタグ　#絵フブキ\n\nホロライブプロダクションの全体放送スケジュール\n➡https://schedule.hololive.tv/\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n　🎵M　U　S　I　C🎵\n\n『Say!ファンファーレ! / 白上フブキ』\n🌽https://sf.streamlink.to/say\n\n『hololive IDOL PROJECT初のフルアルバム 『Bouquet』』\n🌽https://hip.streamlink.to/BouquetCD\n\n『百花繚乱花吹雪』\n歌：hololive IDOL PROJECT\n(歌唱メンバー : 白上フブキ, 百鬼あやめ, 大神ミオ)\n🌽https://hip.streamlink.to/HyakkaRyoranHanafubuki\n\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎵R　A　D　I　O🎵\n\n🎁「ホロライブpresents Vのすこんなオタ活なんだワ！」\n響ラジオステーションで毎週水曜日\n宝鐘マリン＆白上フブキでヲタ活をお届け！\n\n▷https://hibiki-radio.jp/description/skdw/detail\n感想　#すこだワ\n━━━━━━━━━━━━━━━━━━━━━━━\n　🎁G　O　O　D　S🎁\n\nホロライブグッズ販売inBOOTH\n❖BOOTH：https://hololive.booth.pm/\n\n🌸Click here for BOOTH overseas shipping! ＞\n　 http://www.tenso.com/en/static/lp_shop_booth\n\n🌸使用BOOTH的海外转发服务来海淘吧！ ＞ \n　https://www.tenso.com/chs/static/lp_shop_booth\n\n━━━━━━━━━━━━━━━━━━━━━━━\n\n■使用BGM\n　　　　❖Foxtail-Grass Studio/ハム\n　　　　　Twitter：https://twitter.com/hamu_lr\n　　　　　HP：https://f-g-s.net/\n　　　　❖しゃろう\n　　　　　Twitter：https://twitter.com/shlllllw\n　　　　❖トマト組\n　　　　　Twitter：https://twitter.com/tsugaharuka\n                ❖モリモリあつし\n　　　　　Twitter：https://twitter.com/ats024\n　　　　❖あくまのゴート【品川シーサイド】\n　　　　 https://youtu.be/jqL-V8-h3mQ \n　　　　🔴あくまの音楽集 その1 | あくまのゴート\n　　　　 https://akumano-goat.booth.pm/items/1359684 #booth_pm\n　　　　❖かんざきひろ\n　　　　https://twitter.com/kanzakihiro\n　　　　❖木屑\n　　　　　Twitter：https://twitter.com/cassisorange_g2\n　　　　❖DOVA-SYNDROME\n　　　　　HP：https://dova-s.jp/\n\n　　　　❖VOXおるやんけ/にーえぬこーは　\n　　　　　DL:https://soundcloud.com/8izwhpwkfuor/vox\n　　　　❖コンコンきつね/karoi\n　　　　DL:https://soundcloud.com/nrivdlq6vz0c/h7omavnmebsz\n　　\n■ﾁｬﾝﾈﾙﾛｺﾞ：柊椋\n動画素材サイト f-stock.net\n金子開発：https://kanekokaihatsu.com/\nチャンネルスタンプ:ヨルのないと\nOKUMONO：https://sozaino.site/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/RQM_lTiXEUs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/RQM_lTiXEUs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/RQM_lTiXEUs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/RQM_lTiXEUs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/RQM_lTiXEUs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"position": 6,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "RQM_lTiXEUs"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
 			"etag": "mTL1lKAjiWpzenZalQYc1wAouXY",
 			"id": "VVVkbjVCUTA2WHFnWG9BeEloYnF3NVJnLmJtNWZtYjNVU0xN",
 			"snippet": {
